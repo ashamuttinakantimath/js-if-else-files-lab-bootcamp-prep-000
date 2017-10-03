@@ -11,3 +11,4 @@ if(name==="susan"){
 else{
   console.log("ssssss")
 }
+var index = require("./index.js")
